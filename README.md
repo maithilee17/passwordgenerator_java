@@ -1,7 +1,3 @@
-Here's the updated, professional `README.md` without any emojis or casual elements:
-
----
-
 ## Password Generator (Java Swing)
 
 This is a GUI-based Password Generator built using Java Swing. It allows users to generate secure, customizable passwords with options to include numbers and special characters. The interface features a clean, modern dark theme.
